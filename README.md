@@ -2,7 +2,7 @@
 
 # Hey, I'm Quintin Smith!
 
-### Computer Science Student | Aspiring Software Engineer
+### Computer Science Student |  Software Engineer
 
 Building projects that combine software, machine learning, and my interests outside of coding.
 
